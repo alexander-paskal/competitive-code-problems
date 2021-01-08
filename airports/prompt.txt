@@ -1,0 +1,4 @@
+Starting with a list of airports, a list of current one-way flights, and a starting airport,
+write a function that outputs the minimum number of connections to enable that it is possible for the passenger to
+from start airport to any other airport (with unlimited number of possible connections)
+
